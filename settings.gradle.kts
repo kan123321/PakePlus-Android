@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PakePlus"
+rootProject.name = " AAAAA"
 include(":app")
